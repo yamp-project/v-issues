@@ -1,6 +1,6 @@
 ---
 name: API proposal
-about: Suggest an api that you would like so see at yamp
+about: Suggest an api that you would like to see at yamp
 title: ''
 labels: api proposal
 assignees: ''
